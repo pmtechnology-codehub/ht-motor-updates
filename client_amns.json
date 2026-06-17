@@ -2,8 +2,7 @@
   "license_active": true,
   "expiry_date": "2026-12-31",
   "client_name": "AM/NS Steel",
-  "maintenance_mode": true,
-  "maintenance_message": "એપ અત્યારે મેન્ટેનન્સમાં છે, કૃપા કરીને થોડીવાર પછી પ્રયત્ન કરો.",
-  "expiry_message": "તમારું લાયસન્સ સમાપ્ત થઈ ગયું છે. કૃપા કરીને રીન્યુ કરવા સંપર્ક કરો.",
+  "maintenance_mode": false,
+  "message": "એપ અત્યારે અપગ્રેડ થઈ રહી છે, કૃપા કરીને ૧ કલાક પછી પ્રયત્ન કરો.",
   "contact": "official.pmtech@gmail.com"
 }
