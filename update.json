@@ -1,7 +1,7 @@
 {
-  "version_code": 1, 
-  "version_name": "1.0",
+  "version_code": 2, 
+  "version_name": "1.1",
   "apk_url": "https://pmtechnology-codehub.github.io/ht-motor-updates/app-release.apk",
-  "release_notes": "- નવો ડાર્ક મોડ\n- સ્મૂધ એનિમેશન અને બગ ફિક્સ\n- નવું ઇમેઇલ બટન",
+  "release_notes": "🚀 HT Motor Report v1.1 - Major Update\n\n• NEW: Pure Black OLED Dark Mode support for superior visibility.\n• PERFORMANCE: Optimized for 90Hz-120Hz displays with buttery-smooth animations.\n• AUTOMATION: Integrated real-time Resistance Correction at 75°C (R75) calculations.\n• EXPORT: Enhanced layout consistency for Word and PDF reports including graphs and diagrams.\n• FEATURE: New 'Direct Share' options to send PDF and Word documents together.\n• UI/UX: Added SI Unit selectors and automated date/report number generation.",
   "force_update": false
 }
